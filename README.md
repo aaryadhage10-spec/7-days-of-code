@@ -4,3 +4,5 @@ a= 2
 b = 8
 s = a+b
 print(s)
+c = a-b
+print(c)
