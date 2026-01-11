@@ -6,3 +6,5 @@ s = a+b
 print(s)
 c = a-b
 print(c)
+z = b/2
+print(z)
