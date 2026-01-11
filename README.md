@@ -8,3 +8,8 @@ c = a-b
 print(c)
 z = b/2
 print(z)
+marks = 50
+if marks > 30:
+print("pass")
+else:
+print("fail")
