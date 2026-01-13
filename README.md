@@ -13,3 +13,5 @@ if marks > 30:
 print("pass")
 else:
 print("fail")
+a = int(input("enter your name: ")
+print(a)
