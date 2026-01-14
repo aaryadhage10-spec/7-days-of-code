@@ -15,3 +15,5 @@ else:
 print("fail")
 a = int(input("enter your name: ")
 print(a)
+b = input("enter your name :")
+print(b)
